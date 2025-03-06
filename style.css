@@ -1,0 +1,8 @@
+.outer-cont{
+border: dotted 2px black;
+}
+.inner-cont{
+    padding: 20px;
+    margin: 5%;
+    border: solid 2px rgb(207, 13, 13);
+}
